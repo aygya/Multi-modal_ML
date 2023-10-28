@@ -2,9 +2,9 @@
 Multi-modal ML methods based ADNI data (morphometry + genetic study)
 
 ## Table of contents:
-* [All code with data preprocessing + SVM (SVC) model + Baseline models resultsdocs](main/Multi_modal_ML.ipynb)
+* [All code with data preprocessing + SVM (SVC) model + Baseline models resultsdocs](Multi_modal_ML.ipynb)
 * [Presentation](https://drive.google.com/file/d/1cbnQkl_xCAAVFCCSpx-W_rDmhHsCRW8g/view?usp=sharing)
-* [Report](main/NeuroML_report.pdf)
+* [Report](NeuroML_report.pdf)
   
 ## Future work:
 * Find more correlations between top features of genetic and morphometric data
