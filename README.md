@@ -11,14 +11,16 @@ Table of contents:
 Future work:
 * Find more correlations between top features of genetic and morphometric data
 * Read more articles on AD and MCI genes and brain changes
+
 Current results:
-Morphometery data AD vs CN
+* Morphometery data AD vs CN
 The mean score_svm using nested cross-validation is: 0.882 ± 0.085
-Genetic data AD vs CN
+* Genetic data AD vs CN
 The mean score_svm using nested cross-validation is: 0.603 ± 0.022
 Other models worked  worse
 
 Brain sections: http://arno.uvt.nl/show.cgi?fid=149965
+
 Important materials:
 * https://article.imrpress.com/journal/JIN/22/4/10.31083/j.jin2204099/264447778a39dfc4f0197bb7be2e4fd3.pdf
 * https://pubmed.ncbi.nlm.nih.gov/23202293/
