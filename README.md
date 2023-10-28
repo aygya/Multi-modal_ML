@@ -6,7 +6,8 @@ Course project
 Table of contents:
 * Baseline models results
 * SVM (SVC) model results
-* Presentation
+* [Presentation](https://drive.google.com/file/d/1cbnQkl_xCAAVFCCSpx-W_rDmhHsCRW8g/view?usp=sharing)
+  
 Future work:
 * Find more correlations between top features of genetic and morphometric data
 * Read more articles on AD and MCI genes and brain changes
